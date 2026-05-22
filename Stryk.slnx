@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/Stryk.Api/Stryk.Api.csproj" />
+  </Folder>
+</Solution>
